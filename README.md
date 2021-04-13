@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Vuk1975
-- 👀 I’m interested in Web App
+- 👋 Hi, I’m Igor Vukojević
+- 👀 I’m interested in Web App development 3rd
 - 🌱 I’m currently learning Laravel and Vue
 - 💞️ I’m looking for collaboration in Web projects
 - 📫 vukojevic1975@gmail.com 
